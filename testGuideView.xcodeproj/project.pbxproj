@@ -7,6 +7,16 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2DEFFF3D2009A50D4CDEE2AB /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E8DD035D04C1F2662B0CE535 /* libPods.a */; };
+		FF5BA7A91A5A6E4E005DD711 /* lungun01.png in Resources */ = {isa = PBXBuildFile; fileRef = FF5BA7A51A5A6E4E005DD711 /* lungun01.png */; };
+		FF5BA7AA1A5A6E4E005DD711 /* lungun02.png in Resources */ = {isa = PBXBuildFile; fileRef = FF5BA7A61A5A6E4E005DD711 /* lungun02.png */; };
+		FF5BA7AB1A5A6E4E005DD711 /* lungun03.png in Resources */ = {isa = PBXBuildFile; fileRef = FF5BA7A71A5A6E4E005DD711 /* lungun03.png */; };
+		FF5BA7AC1A5A6E4E005DD711 /* lungun04.png in Resources */ = {isa = PBXBuildFile; fileRef = FF5BA7A81A5A6E4E005DD711 /* lungun04.png */; };
+		FF728A4E1A5A26C2007D1831 /* 01-K.png in Resources */ = {isa = PBXBuildFile; fileRef = FF728A4C1A5A26C2007D1831 /* 01-K.png */; };
+		FF728A4F1A5A26C2007D1831 /* 02-hand.png in Resources */ = {isa = PBXBuildFile; fileRef = FF728A4D1A5A26C2007D1831 /* 02-hand.png */; };
+		FF728A531A5A2FF4007D1831 /* 03-rain-1.png in Resources */ = {isa = PBXBuildFile; fileRef = FF728A501A5A2FF4007D1831 /* 03-rain-1.png */; };
+		FF728A541A5A2FF4007D1831 /* 03-rain-3.png in Resources */ = {isa = PBXBuildFile; fileRef = FF728A511A5A2FF4007D1831 /* 03-rain-3.png */; };
+		FF728A551A5A2FF4007D1831 /* 03-rain-2.png in Resources */ = {isa = PBXBuildFile; fileRef = FF728A521A5A2FF4007D1831 /* 03-rain-2.png */; };
 		FFB2A0461A58E33B002A202C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = FFB2A0451A58E33B002A202C /* main.m */; };
 		FFB2A0491A58E33B002A202C /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = FFB2A0481A58E33B002A202C /* AppDelegate.m */; };
 		FFB2A04C1A58E33B002A202C /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FFB2A04B1A58E33B002A202C /* ViewController.m */; };
@@ -14,6 +24,19 @@
 		FFB2A0511A58E33B002A202C /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FFB2A0501A58E33B002A202C /* Images.xcassets */; };
 		FFB2A0541A58E33B002A202C /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = FFB2A0521A58E33B002A202C /* LaunchScreen.xib */; };
 		FFB2A0601A58E33B002A202C /* testGuideViewTests.m in Sources */ = {isa = PBXBuildFile; fileRef = FFB2A05F1A58E33B002A202C /* testGuideViewTests.m */; };
+		FFB2A09B1A5914D7002A202C /* 01-10%.png in Resources */ = {isa = PBXBuildFile; fileRef = FFB2A08B1A5914D7002A202C /* 01-10%.png */; };
+		FFB2A09C1A5914D7002A202C /* 01-20%.png in Resources */ = {isa = PBXBuildFile; fileRef = FFB2A08C1A5914D7002A202C /* 01-20%.png */; };
+		FFB2A09D1A5914D7002A202C /* 01-bg.png in Resources */ = {isa = PBXBuildFile; fileRef = FFB2A08D1A5914D7002A202C /* 01-bg.png */; };
+		FFB2A09F1A5914D7002A202C /* 02-2.png in Resources */ = {isa = PBXBuildFile; fileRef = FFB2A08F1A5914D7002A202C /* 02-2.png */; };
+		FFB2A0A01A5914D7002A202C /* 02-1.png in Resources */ = {isa = PBXBuildFile; fileRef = FFB2A0901A5914D7002A202C /* 02-1.png */; };
+		FFB2A0A11A5914D7002A202C /* 02-3.png in Resources */ = {isa = PBXBuildFile; fileRef = FFB2A0911A5914D7002A202C /* 02-3.png */; };
+		FFB2A0A21A5914D7002A202C /* 02-bg.png in Resources */ = {isa = PBXBuildFile; fileRef = FFB2A0921A5914D7002A202C /* 02-bg.png */; };
+		FFB2A0A31A5914D7002A202C /* 02-Circle.png in Resources */ = {isa = PBXBuildFile; fileRef = FFB2A0931A5914D7002A202C /* 02-Circle.png */; };
+		FFB2A0A51A5914D7002A202C /* 03-bg.png in Resources */ = {isa = PBXBuildFile; fileRef = FFB2A0951A5914D7002A202C /* 03-bg.png */; };
+		FFB2A0A61A5914D7002A202C /* 03-hand.png in Resources */ = {isa = PBXBuildFile; fileRef = FFB2A0961A5914D7002A202C /* 03-hand.png */; };
+		FFB2A0A81A5914D7002A202C /* 引导01.png in Resources */ = {isa = PBXBuildFile; fileRef = FFB2A0981A5914D7002A202C /* 引导01.png */; };
+		FFB2A0A91A5914D7002A202C /* 引导02.png in Resources */ = {isa = PBXBuildFile; fileRef = FFB2A0991A5914D7002A202C /* 引导02.png */; };
+		FFB2A0AA1A5914D7002A202C /* 引导03.png in Resources */ = {isa = PBXBuildFile; fileRef = FFB2A09A1A5914D7002A202C /* 引导03.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -27,6 +50,18 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		6D4249C6B76FD809B4BF46F5 /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.release.xcconfig; path = "Pods/Target Support Files/Pods/Pods.release.xcconfig"; sourceTree = "<group>"; };
+		D2CE11B38DB07A104CF85C80 /* Pods.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.debug.xcconfig; path = "Pods/Target Support Files/Pods/Pods.debug.xcconfig"; sourceTree = "<group>"; };
+		E8DD035D04C1F2662B0CE535 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		FF5BA7A51A5A6E4E005DD711 /* lungun01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = lungun01.png; sourceTree = "<group>"; };
+		FF5BA7A61A5A6E4E005DD711 /* lungun02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = lungun02.png; sourceTree = "<group>"; };
+		FF5BA7A71A5A6E4E005DD711 /* lungun03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = lungun03.png; sourceTree = "<group>"; };
+		FF5BA7A81A5A6E4E005DD711 /* lungun04.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = lungun04.png; sourceTree = "<group>"; };
+		FF728A4C1A5A26C2007D1831 /* 01-K.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "01-K.png"; sourceTree = "<group>"; };
+		FF728A4D1A5A26C2007D1831 /* 02-hand.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "02-hand.png"; sourceTree = "<group>"; };
+		FF728A501A5A2FF4007D1831 /* 03-rain-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "03-rain-1.png"; sourceTree = "<group>"; };
+		FF728A511A5A2FF4007D1831 /* 03-rain-3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "03-rain-3.png"; sourceTree = "<group>"; };
+		FF728A521A5A2FF4007D1831 /* 03-rain-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "03-rain-2.png"; sourceTree = "<group>"; };
 		FFB2A0401A58E33B002A202C /* testGuideView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = testGuideView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FFB2A0441A58E33B002A202C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FFB2A0451A58E33B002A202C /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -40,6 +75,19 @@
 		FFB2A0591A58E33B002A202C /* testGuideViewTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = testGuideViewTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FFB2A05E1A58E33B002A202C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FFB2A05F1A58E33B002A202C /* testGuideViewTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = testGuideViewTests.m; sourceTree = "<group>"; };
+		FFB2A08B1A5914D7002A202C /* 01-10%.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "01-10%.png"; sourceTree = "<group>"; };
+		FFB2A08C1A5914D7002A202C /* 01-20%.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "01-20%.png"; sourceTree = "<group>"; };
+		FFB2A08D1A5914D7002A202C /* 01-bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "01-bg.png"; sourceTree = "<group>"; };
+		FFB2A08F1A5914D7002A202C /* 02-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "02-2.png"; sourceTree = "<group>"; };
+		FFB2A0901A5914D7002A202C /* 02-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "02-1.png"; sourceTree = "<group>"; };
+		FFB2A0911A5914D7002A202C /* 02-3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "02-3.png"; sourceTree = "<group>"; };
+		FFB2A0921A5914D7002A202C /* 02-bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "02-bg.png"; sourceTree = "<group>"; };
+		FFB2A0931A5914D7002A202C /* 02-Circle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "02-Circle.png"; sourceTree = "<group>"; };
+		FFB2A0951A5914D7002A202C /* 03-bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "03-bg.png"; sourceTree = "<group>"; };
+		FFB2A0961A5914D7002A202C /* 03-hand.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "03-hand.png"; sourceTree = "<group>"; };
+		FFB2A0981A5914D7002A202C /* 引导01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "引导01.png"; sourceTree = "<group>"; };
+		FFB2A0991A5914D7002A202C /* 引导02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "引导02.png"; sourceTree = "<group>"; };
+		FFB2A09A1A5914D7002A202C /* 引导03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "引导03.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -47,6 +95,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2DEFFF3D2009A50D4CDEE2AB /* libPods.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -60,12 +109,31 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		70F3091AB8DA649F1CA757E4 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				D2CE11B38DB07A104CF85C80 /* Pods.debug.xcconfig */,
+				6D4249C6B76FD809B4BF46F5 /* Pods.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		AF51D069F4D6C56301E0EDC7 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				E8DD035D04C1F2662B0CE535 /* libPods.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		FFB2A0371A58E33B002A202C = {
 			isa = PBXGroup;
 			children = (
 				FFB2A0421A58E33B002A202C /* testGuideView */,
 				FFB2A05C1A58E33B002A202C /* testGuideViewTests */,
 				FFB2A0411A58E33B002A202C /* Products */,
+				70F3091AB8DA649F1CA757E4 /* Pods */,
+				AF51D069F4D6C56301E0EDC7 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -81,6 +149,7 @@
 		FFB2A0421A58E33B002A202C /* testGuideView */ = {
 			isa = PBXGroup;
 			children = (
+				FFB2A08A1A5914D7002A202C /* GuidePng */,
 				FFB2A0471A58E33B002A202C /* AppDelegate.h */,
 				FFB2A0481A58E33B002A202C /* AppDelegate.m */,
 				FFB2A04A1A58E33B002A202C /* ViewController.h */,
@@ -119,6 +188,35 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
+		FFB2A08A1A5914D7002A202C /* GuidePng */ = {
+			isa = PBXGroup;
+			children = (
+				FF728A501A5A2FF4007D1831 /* 03-rain-1.png */,
+				FF5BA7A51A5A6E4E005DD711 /* lungun01.png */,
+				FF5BA7A61A5A6E4E005DD711 /* lungun02.png */,
+				FF5BA7A71A5A6E4E005DD711 /* lungun03.png */,
+				FF5BA7A81A5A6E4E005DD711 /* lungun04.png */,
+				FF728A511A5A2FF4007D1831 /* 03-rain-3.png */,
+				FF728A521A5A2FF4007D1831 /* 03-rain-2.png */,
+				FF728A4C1A5A26C2007D1831 /* 01-K.png */,
+				FF728A4D1A5A26C2007D1831 /* 02-hand.png */,
+				FFB2A08B1A5914D7002A202C /* 01-10%.png */,
+				FFB2A08C1A5914D7002A202C /* 01-20%.png */,
+				FFB2A08D1A5914D7002A202C /* 01-bg.png */,
+				FFB2A08F1A5914D7002A202C /* 02-2.png */,
+				FFB2A0901A5914D7002A202C /* 02-1.png */,
+				FFB2A0911A5914D7002A202C /* 02-3.png */,
+				FFB2A0921A5914D7002A202C /* 02-bg.png */,
+				FFB2A0931A5914D7002A202C /* 02-Circle.png */,
+				FFB2A0951A5914D7002A202C /* 03-bg.png */,
+				FFB2A0961A5914D7002A202C /* 03-hand.png */,
+				FFB2A0981A5914D7002A202C /* 引导01.png */,
+				FFB2A0991A5914D7002A202C /* 引导02.png */,
+				FFB2A09A1A5914D7002A202C /* 引导03.png */,
+			);
+			path = GuidePng;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -126,9 +224,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = FFB2A0631A58E33B002A202C /* Build configuration list for PBXNativeTarget "testGuideView" */;
 			buildPhases = (
+				75B697CFDB20A44E4BB05DD0 /* Check Pods Manifest.lock */,
 				FFB2A03C1A58E33B002A202C /* Sources */,
 				FFB2A03D1A58E33B002A202C /* Frameworks */,
 				FFB2A03E1A58E33B002A202C /* Resources */,
+				092BD487607AB7B587DCE46D /* Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -199,9 +299,31 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FF5BA7AA1A5A6E4E005DD711 /* lungun02.png in Resources */,
+				FF728A4E1A5A26C2007D1831 /* 01-K.png in Resources */,
+				FFB2A0A21A5914D7002A202C /* 02-bg.png in Resources */,
+				FFB2A0A31A5914D7002A202C /* 02-Circle.png in Resources */,
+				FFB2A0A91A5914D7002A202C /* 引导02.png in Resources */,
+				FFB2A0A61A5914D7002A202C /* 03-hand.png in Resources */,
+				FFB2A0A01A5914D7002A202C /* 02-1.png in Resources */,
+				FF728A551A5A2FF4007D1831 /* 03-rain-2.png in Resources */,
 				FFB2A04F1A58E33B002A202C /* Main.storyboard in Resources */,
+				FFB2A09B1A5914D7002A202C /* 01-10%.png in Resources */,
+				FF5BA7A91A5A6E4E005DD711 /* lungun01.png in Resources */,
+				FFB2A09F1A5914D7002A202C /* 02-2.png in Resources */,
+				FFB2A09C1A5914D7002A202C /* 01-20%.png in Resources */,
+				FFB2A09D1A5914D7002A202C /* 01-bg.png in Resources */,
+				FFB2A0AA1A5914D7002A202C /* 引导03.png in Resources */,
+				FFB2A0A11A5914D7002A202C /* 02-3.png in Resources */,
+				FF728A541A5A2FF4007D1831 /* 03-rain-3.png in Resources */,
 				FFB2A0541A58E33B002A202C /* LaunchScreen.xib in Resources */,
+				FF5BA7AC1A5A6E4E005DD711 /* lungun04.png in Resources */,
 				FFB2A0511A58E33B002A202C /* Images.xcassets in Resources */,
+				FF5BA7AB1A5A6E4E005DD711 /* lungun03.png in Resources */,
+				FFB2A0A51A5914D7002A202C /* 03-bg.png in Resources */,
+				FF728A4F1A5A26C2007D1831 /* 02-hand.png in Resources */,
+				FF728A531A5A2FF4007D1831 /* 03-rain-1.png in Resources */,
+				FFB2A0A81A5914D7002A202C /* 引导01.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -213,6 +335,39 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		092BD487607AB7B587DCE46D /* Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods/Pods-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		75B697CFDB20A44E4BB05DD0 /* Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		FFB2A03C1A58E33B002A202C /* Sources */ = {
@@ -341,9 +496,11 @@
 		};
 		FFB2A0641A58E33B002A202C /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = D2CE11B38DB07A104CF85C80 /* Pods.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = testGuideView/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -351,9 +508,11 @@
 		};
 		FFB2A0651A58E33B002A202C /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 6D4249C6B76FD809B4BF46F5 /* Pods.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = testGuideView/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -412,6 +571,7 @@
 				FFB2A0651A58E33B002A202C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		FFB2A0661A58E33B002A202C /* Build configuration list for PBXNativeTarget "testGuideViewTests" */ = {
 			isa = XCConfigurationList;
@@ -420,6 +580,7 @@
 				FFB2A0681A58E33B002A202C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
